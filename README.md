@@ -1,7 +1,7 @@
 ---
 title: SLHF OSmodel
 emoji: 📚
-colorFrom: green
+colorFrom: blue
 colorTo: yellow
 sdk: streamlit
 sdk_version: 1.32.0
